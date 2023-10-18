@@ -32,7 +32,7 @@ git clone https://github.com/your-username/JobAPI.git
 3. Install dependencies:
 
 ```bash
-cd job-portal-backend-api
+cd jobAPI
 npm install
 ```
 
