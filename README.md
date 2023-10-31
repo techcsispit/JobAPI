@@ -6,6 +6,11 @@ Welcome to the Job Portal Backend API repository for **Source Start**! This repo
 
 This repository hosts the backend API for a job portal application. The primary goal is to develop and maintain the backend services that power a job portal. As a newbie contributor, you can start by fixing bugs, implementing new features, or improving the codebase. Whether you're new to open source or have some experience, you're welcome to participate and learn as you go.
 
+## API Credentials
+ 
+Make sure to know that the api credentials are not present when you clone the project. You have to make sure that you use your API credentials inorder to load the data. You can create a .env file and store the credentials. 
+
+
 ## Technology Used
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
